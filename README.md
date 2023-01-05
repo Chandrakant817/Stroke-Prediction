@@ -11,3 +11,5 @@
 #### 2. Decision Tree,
 
 #### 3. Random Forest.
+
+#### 4. K-Nearest Neighbor(KNN)
